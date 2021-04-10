@@ -42,6 +42,7 @@ stage.show();
     } catch(Exception e)
     {
      System.out.println("errur");
+      System.out.println("errur");
 }
     }
     @Override
